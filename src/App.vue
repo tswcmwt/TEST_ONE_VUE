@@ -9,6 +9,12 @@ import TheWelcome from './components/TheWelcome.vue'
 
     <div class="wrapper">
       <HelloWorld msg="You d2321312id it!" />
+    </div> <div class="wrapper">
+      <HelloWorld msg="You d2321312id it!" />
+    </div> <div class="wrapper">
+      <HelloWorld msg="You d2321312id it!" />
+    </div> <div class="wrapper">
+      <HelloWorld msg="You d2321312id it!" />
     </div>
   </header>
 
